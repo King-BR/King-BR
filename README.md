@@ -5,12 +5,14 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-BR&layout=compact&langs_count=10&custom_title=Most%20used%20languages&exclude_repo=pacman" />
 </a>
 
+<!--
 <br>
 <br>
 
 <a href="https://wakatime.com/@KingBR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KingBR&layout=compact" />
 </a>
+-->
 
 <br>
 <br>
