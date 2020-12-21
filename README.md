@@ -18,11 +18,11 @@
 
 ## Pinned repositories
 
-<a href="https://github.com/King-BR/King-BR.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=King-BR.github.io&show_owner=true&theme=tokyonight" />
-</a>
 <a href="https://github.com/King-BR/ReactorBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=ReactorBot&show_owner=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/King-BR/King-BR.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=King-BR.github.io&show_owner=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/arubinofaux/mozambique-api-wrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arubinofaux&repo=mozambique-api-wrapper&show_owner=true&theme=tokyonight" />
