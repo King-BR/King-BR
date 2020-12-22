@@ -19,11 +19,11 @@
 ## Pinned repositories
 
 <a href="https://github.com/King-BR/ReactorBot">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=ReactorBot&show_owner=true&theme=tokyonight" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=ReactorBot&show_owner=true&hide_border=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/King-BR/King-BR.github.io">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=King-BR.github.io&show_owner=true&theme=tokyonight" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=King-BR.github.io&show_owner=true&hide_border=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/arubinofaux/mozambique-api-wrapper">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=arubinofaux&repo=mozambique-api-wrapper&show_owner=true&theme=tokyonight" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=arubinofaux&repo=mozambique-api-wrapper&show_owner=true&hide_border=true&theme=tokyonight" />
 </a>
