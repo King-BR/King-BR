@@ -12,6 +12,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KingBR&layout=compact&hide_border=true&theme=tokyonight" />
 </a>
 
+![gitHub metrics](https://metrics.lecoq.io/King-BR)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=King-BR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=King-BR&theme=tokyonight_duo)
+
 <br>
 <br>
 
