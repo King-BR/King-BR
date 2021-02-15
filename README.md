@@ -30,7 +30,7 @@
 <a href="https://github.com/King-BR/King-BR.github.io">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=King-BR.github.io&show_owner=true&hide_border=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/King-BR/Discord.js-Bot-Tempalte">
+<a href="https://github.com/King-BR/Discord.js-Bot-Template">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=Discord.js-Bot-Template&show_owner=true&hide_border=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/arubinofaux/mozambique-api-wrapper">
