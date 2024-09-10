@@ -36,6 +36,6 @@
 <a href="https://github.com/King-BR/Just-Another-Space-Shooter">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=Just-Another-Space-Shooter&show_owner=true&hide_border=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/arubinofaux/mozambique-api-wrapper">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=arubinofaux&repo=mozambique-api-wrapper&show_owner=true&hide_border=true&theme=tokyonight" />
+<a href="https://github.com/King-BR/Mercatorio-Interactive-Map">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=Mercatorio-Interactive-Map&show_owner=true&hide_border=true&theme=tokyonight" />
 </a>
