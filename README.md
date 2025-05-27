@@ -12,23 +12,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KingBR&layout=compact&hide_border=true&theme=tokyonight" />
 </a>
 
-![gitHub metrics](https://metrics.lecoq.io/King-BR)
+<br>
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=King-BR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=King-BR&theme=tokyonight_duo)
 
-<br>
-<br>
-
-
 ## Pinned repositories
 
 <a href="https://github.com/King-BR/ReactorBot">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=ReactorBot&show_owner=true&hide_border=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/King-BR/King-BR.github.io">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=King-BR.github.io&show_owner=true&hide_border=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/King-BR/Discord.js-Bot-Template">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=King-BR&repo=Discord.js-Bot-Template&show_owner=true&hide_border=true&theme=tokyonight" />
